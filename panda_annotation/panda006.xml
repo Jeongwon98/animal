@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>panda006.jpg</filename>
+	<path>/my-project-name/panda006.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>panda</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>688</xmin>
+			<ymin>2</ymin>
+			<xmax>2932</xmax>
+			<ymax>1449</ymax>
+		</bndbox>
+	</object>
+</annotation>

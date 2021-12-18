@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>PolarBear025.jpg</filename>
+	<path>/my-project-name/PolarBear025.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>PolarBear</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>11</ymin>
+			<xmax>253</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>quokka021.jpg</filename>
+	<path>/my-project-name/quokka021.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>quokka</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>12</ymin>
+			<xmax>641</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>
